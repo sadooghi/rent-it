@@ -1,4 +1,4 @@
-## see Rent-It app live here: https://dry-dawn-25883.herokuapp.com/
+## Check live Rent-It app here: https://dry-dawn-25883.herokuapp.com/
 # Project Description
 Rent-it is a tool rental website (similar to Airbnb for tools and equipments).
 John has many tools at his home and is running out of space and also he is looking for a way to make money from his tools collection. Jan rarely uses tools and don't like spending 500$ to buy a tool.
